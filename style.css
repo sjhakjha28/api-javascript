@@ -1,0 +1,31 @@
+h1{
+    font-size: 1em;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+span{
+    background-color: #25bb25;
+    color: white;
+    font-style: normal;
+}
+
+#coins{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    text-align:center;
+}
+
+.card{
+    width: 300px; 
+    margin: 15px;
+    text-align: left;
+}
+
+img{
+    width:30px; 
+    float:right;
+}
